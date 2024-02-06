@@ -5,7 +5,7 @@ import { Metadata } from 'next';
 
 
 export const metadata: Metadata = {
-  title: 'Create Invoices',
+  title: 'Create invoices',
 }
  
 export default async function Page() {
